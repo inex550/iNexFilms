@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.INexFilms" parent="@style/Theme.AppCompat.NoActionBar">
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+
+    </style>
+
+</resources>

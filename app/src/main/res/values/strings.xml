@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">iNexFilms</string>
+
+    <string name="settings_prefs_filename">settings_prefs</string>
+
+    <string name="ok">Ок</string>
+    <string name="close">Закрыть</string>
+    <string name="cancel">Отмена</string>
+    <string name="error">Ошибка</string>
+    <string name="save">Сохранить</string>
+
+    <string name="timeout_error">Время ожидания истекло ⏳</string>
+    <string name="network_error">Проверьте своё интернет соединение (#_#)</string>
+    <string name="unknown_error">Неизвестная ошибка :/</string>
+    <string name="ssl_handshake_error">Нужно выставить актуальную дату и время на устройстве 📅</string>
+    <string name="my_bad_error">Кек. Я просто это есчо не сделал :D</string>
+    <string name="media_missing_error">С сервера не пришла ссылка на видео :(</string>
+    <string name="error_link_not_received">Ссылка не была получена 🤯</string>
+
+    <string name="label_season">Сезон</string>
+    <string name="label_episode">Серия</string>
+
+    <string name="screen_films_list_name">Главная</string>
+    <string name="screen_settings_name">Настройки</string>
+
+    <string name="name">Название</string>
+    <string name="search_result_label">Результаты поиска:</string>
+    
+    <string name="label_base_address">Базовый адрес</string>
+    <string name="label_useful_address">Используемый адрес</string>
+    <string name="label_refresh">Обновить</string>
+    <string name="label_repeat">Повторить</string>
+    <string name="label_not_found">Ничего не найдено…</string>
+    <string name="label_settings_saved">Настройки были сохранены</string>
+</resources>

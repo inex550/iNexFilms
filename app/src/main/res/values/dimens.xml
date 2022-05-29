@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_radius">8dp</dimen>
+    <dimen name="default_border_width">2dp</dimen>
+
+</resources>

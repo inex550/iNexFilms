@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#9959FF</color>
+    <color name="on_primary">#fff</color>
+
+    <color name="white">#fff</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+
+    <color name="black">#000</color>
+
+    <color name="red">#ffff4444</color>
+
+    <color name="grey">#aaa</color>
+
+</resources>

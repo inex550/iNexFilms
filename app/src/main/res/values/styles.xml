@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextButton">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:background">@drawable/bg_ripple_grey_corners_8</item>
+    </style>
+
+    <style name="Button" parent="Text_16_B">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/bg_ripple_grey_color_primary_corners_8</item>
+    </style>
+
+    <style name="Text_12_N">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Text_12_B">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Text_16_N">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Text_16_B">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Text_24_N">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Text_24_B">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="OutlineEditText">
+        <item name="android:background">@drawable/bg_border_color_grey_corners_8</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:inputType">text</item>
+    </style>
+
+</resources>
